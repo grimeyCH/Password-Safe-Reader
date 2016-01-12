@@ -1,0 +1,2 @@
+You can use the example_safe.psafe3 to have a quick look at this app.
+The example password is: sdsafe
